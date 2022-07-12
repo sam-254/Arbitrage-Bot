@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/khachatur.kachatryan/arbitrage_server.git
+git remote add origin https://github.com/sam-254/Arbitrage-Bot.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/khachatur.kachatryan/arbitrage_server/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/sam-254/Arbitrage-Bot.git/-/settings/integrations)
 
 ## Collaborate with your team
 
